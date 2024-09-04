@@ -2,11 +2,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzA3NWE3MzJkMjg1NTRmYjJlOGNmMzJmMzM5NjVmZjA2Yjk0ZWUwMyZjdD1n/uB86ZyWQsnFSGYe2sA/giphy.gif" width="150" height="150" />
 </p>
 <h1 align="center">Hey there 👋, I'm Grace Vivian</h1>
-<h3 align="center">A Fullstack Development student with Keepcoding + Glovo</h3>
+<h3 align="center">A Fullstack Development student with allWomen Tech in TravelPerk's 2024 academy</h3>
 <h4 align="center">"Learning to code is like learning a new language, except that language is also trying to kill you in infinite different ways while you're trying to learn it."</h4>
-
-
-- 👩‍💻 Currently working on small projects to build up my portfolio with hands-on experience in coding. Just started a bootcamp with [Undefined Shell](https://undefined.sh/) to top-up my Javascript skills.
 
 - 🌱 In the process of learning JavaScript, Vue and Typescript.
 
