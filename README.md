@@ -5,7 +5,7 @@
 <h3 align="center">A Fullstack Development student with allWomen Tech in TravelPerk's 2024 academy</h3>
 <h4 align="center">"Learning to code is like learning a new language, except that language is also trying to kill you in infinite different ways while you're trying to learn it."</h4>
 
-- 🌱 In the process of learning JavaScript, Vue and Typescript.
+- 🌱 In the process of learning JavaScript, React and Typescript.
 
 - 🙋‍♀️ Get to know me on [LinkedIn](https://www.linkedin.com/in/grace-vivian/).
 
